@@ -1,0 +1,40 @@
+{
+  "polish_word": {
+    "subtitles": "sounds.notweaks.polish_word",
+    "sounds": [
+      "notweaks:word/0",
+      "notweaks:word/1",
+      "notweaks:word/2",
+      "notweaks:word/3",
+      "notweaks:word/4",
+      "notweaks:word/5",
+      "notweaks:word/6",
+      "notweaks:word/7",
+      "notweaks:word/8"
+    ]
+  },
+  "polish_hedgehog": {
+    "subtitles": "sounds.notweaks.polish_hedgehog",
+    "sounds": [
+      "notweaks:hedgehog/0",
+      "notweaks:hedgehog/1",
+      "notweaks:hedgehog/2",
+      "notweaks:hedgehog/3",
+      "notweaks:hedgehog/4",
+      "notweaks:hedgehog/5",
+      "notweaks:word/3",
+      "notweaks:word/4",
+      "notweaks:word/5"
+    ]
+  },
+  "polish_raccoon": {
+    "subtitles": "sounds.notweaks.polish_raccoon",
+    "sounds": [
+      "notweaks:raccoon/0",
+      "notweaks:raccoon/1",
+      "notweaks:word/0",
+      "notweaks:word/1",
+      "notweaks:word/7"
+    ]
+  }
+}

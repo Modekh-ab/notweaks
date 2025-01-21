@@ -1,0 +1,17 @@
+{
+  "itemGroup.notweaks_tab": "NoTweaks",
+
+  "item.notweaks.weather_bell": "Weather Bell",
+
+  "message.notweaks.weather_bell": "Yo, it's %s now",
+  "message.notweaks.weather_bell_clear": "clear",
+  "message.notweaks.weather_bell_rain": "raining",
+  "message.notweaks.weather_bell_thunder": "thundering",
+
+  "message.notweaks.skunks": "Pier d'Olle Skunks",
+
+  "sounds.notweaks.polish_word": "The Polish saying",
+  "sounds.notweaks.polish_deer": "The Polish deer",
+  "sounds.notweaks.polish_hedgehog": "The Polish hedgehog",
+  "sounds.notweaks.polish_raccoon": "The Polish raccoon"
+}

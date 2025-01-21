@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ERE",
+    "L#L",
+    "GCG"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:heart_of_the_sea"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "naturescompass:naturescompass"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "E": {
+      "item": "thermal:electrum_ingot"
+    }
+  },
+  "result": {
+    "item": "notweaks:weather_bell"
+  }
+}

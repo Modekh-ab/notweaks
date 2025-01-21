@@ -1,0 +1,17 @@
+{
+  "itemGroup.notweaks_tab": "NoTweaks",
+
+  "item.notweaks.weather_bell": "Погодный звон",
+
+  "message.notweaks.weather_bell": "Опоп, сейчас %s",
+  "message.notweaks.weather_bell_clear": "ясно",
+  "message.notweaks.weather_bell_rain": "дождь",
+  "message.notweaks.weather_bell_thunder": "гроза",
+
+  "message.notweaks.skunks": "Пьер д'Олле Скункс",
+
+  "sounds.notweaks.polish_word": "Polskie powiedzenie",
+  "sounds.notweaks.polish_deer": "Елень",
+  "sounds.notweaks.polish_hedgehog": "Йэжик",
+  "sounds.notweaks.polish_raccoon": "Йэнот"
+}
