@@ -85,8 +85,7 @@ public class ModEvents {
         });
     }
 
-    // Exception caught during firing event:
-    // Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+    /*
     @SubscribeEvent
     public static void onPlayerTeleport(EntityTeleportEvent event) {
         if (event.getEntity() instanceof Player player) {
@@ -99,6 +98,7 @@ public class ModEvents {
             });
         }
     }
+    */
 
     @SubscribeEvent
     public static void onKeyUse(InputEvent.Key event) {
@@ -133,8 +133,8 @@ public class ModEvents {
         }
     }
 
-    @SubscribeEvent
-    public static void onCapabilitiesRegister(RegisterCapabilitiesEvent event) {
-        event.register(PlayerTeleports.class);
-    }
+//    @SubscribeEvent
+//    public static void onCapabilitiesRegister(RegisterCapabilitiesEvent event) {
+//        event.register(PlayerTeleports.class);
+//    }
 }

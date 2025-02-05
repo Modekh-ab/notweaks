@@ -34,13 +34,6 @@ public class NoTweaks {
     }
 
     private void commonSetup(final FMLCommonSetupEvent event) {
-        PacketRegistry.register();
-    }
-
-    @Mod.EventBusSubscriber(modid = Reference.MOD_ID, bus = Mod.EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
-    public static class ClientModEvents {
-        @SubscribeEvent
-        public static void onClientSetup(FMLClientSetupEvent event) {
-        }
+//        PacketRegistry.register();
     }
 }
