@@ -18,6 +18,9 @@ public class SoundRegistry {
     public static final RegistryObject<SoundEvent> POLISH_RACCOON =
             registerSoundEvents("polish_raccoon");
 
+    public static final RegistryObject<SoundEvent> HOI =
+            registerSoundEvents("hoi");
+
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUNDS.register(name,
                 () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(Reference.MOD_ID, name)));

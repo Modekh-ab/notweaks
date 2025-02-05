@@ -20,6 +20,10 @@ public class ChatUtils {
         player.displayClientMessage(sender.append(" ").append(message.withStyle(ChatFormatting.WHITE)), bar);
     }
 
+    public static void sendPlainMessage(Player player, MutableComponent message, boolean bar) {
+        player.displayClientMessage(message.withStyle(ChatFormatting.WHITE), bar);
+    }
+
     public static void sendPolishMessage(Player player, MutableComponent message) {
         sendMessage(player, polishSender(), message, true);
     }

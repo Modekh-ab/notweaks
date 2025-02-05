@@ -36,5 +36,15 @@
       "notweaks:word/1",
       "notweaks:word/7"
     ]
+  },
+  "hoi": {
+    "subtitles": "sounds.notweaks.hoi",
+    "sounds": [
+      "notweaks:hoi/0",
+      "notweaks:hoi/1",
+      "notweaks:hoi/2",
+      "notweaks:hoi/3",
+      "notweaks:hoi/4"
+    ]
   }
 }
